@@ -54,7 +54,7 @@ The interface performance was evaluated by simulating continuous user event trig
 
 ![HCI Dashboard Environment Interface](dashboard-preview.png)
 *Figure 1: Production environment visualization containing responsive bar chart metrics and control trigger interfaces.*
-
+HCI dashboard.mp4 
 ---
 
 ## 6. Conclusion & Future Enhancements
