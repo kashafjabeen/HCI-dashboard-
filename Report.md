@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/e6567953-5232-4942-8b11-e80500287b04
+
+
+
+https://github.com/user-attachments/assets/15dcdb1c-9789-47d5-8c17-58cf61667fdd
+
 # 📑 Project Technical Report: HCI Interaction Dashboard
 
 **Author:** Kashaf Jabeen  
